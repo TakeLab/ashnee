@@ -41,8 +41,6 @@ Most articles were published between 2019. and 2022.
 
 ## Models
 
-List of models we fine-tuned for event detection: roberta-base, roberta-large,
-deberta-base, deberta-large, distilroberta-base, and albert-base-v2.
+List of models we fine-tuned for event detection: [roberta-base](https://huggingface.co/roberta-base), [roberta-large](https://huggingface.co/roberta-large), [deberta-v3-base](https://huggingface.co/microsoft/deberta-v3-base), [deberta-large](https://huggingface.co/microsoft/deberta-v3-large), [distilroberta-base](https://huggingface.co/distilroberta-base), and [albert-base-v2](https://huggingface.co/albert-base-v2).
 
-List of models we fine-tuned for argument extraction: roberta-base, roberta-large,
-deberta-base, deberta-large, distilroberta-base, and albert-base-v2
+List of models we fine-tuned for argument extraction: [roberta-base](https://huggingface.co/deepset/roberta-base-squad2), [roberta-large](https://huggingface.co/deepset/roberta-large-squad2), [deberta-v3-base](https://huggingface.co/deepset/deberta-v3-base-squad2), [deberta-v3-large](https://huggingface.co/deepset/deberta-v3-large-squad2), [distilroberta-base](https://huggingface.co/squirro/distilroberta-base-squad_v2), and [albert-base-v2](https://huggingface.co/squirro/albert-base-v2-squad_v2).
